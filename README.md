@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of srdgame/flarum-ext-auth-erpnext.** Not for installation: use [Packagist](https://packagist.org/packages/srdgame/flarum-ext-auth-erpnext) or the [upstream repository](https://github.com/srdgame/flarum-ext-auth-erpnext).
 
-**0** versions archived · Latest: [`v0.2.1`](https://github.com/flarchive/srdgame-flarum-ext-auth-erpnext/tree/archive/v0.2.1) · License: `GPL-3.0+` · Flarum: `^0.1.0-beta.6`
+**2** versions archived · Latest: [`v0.2.1`](https://github.com/flarchive/srdgame-flarum-ext-auth-erpnext/tree/archive/v0.2.1) · License: `GPL-3.0+` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta` | 2017-02-10 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/srdgame-flarum-ext-auth-erpnext/tree/archive/v0.1.0-beta) |
+| `v0.2.1` | 2018-03-01 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/srdgame-flarum-ext-auth-erpnext/tree/archive/v0.2.1) |
 
 Catalog entry: [packages/srdgame-flarum-ext-auth-erpnext.json](https://github.com/flarchive/archive-index/blob/main/packages/srdgame-flarum-ext-auth-erpnext.json)
 
